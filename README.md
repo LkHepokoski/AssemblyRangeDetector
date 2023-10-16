@@ -1,7 +1,7 @@
 # AssemblyRangeDetector
+This was made for a Comp Orgn & Assem Lang Prog (CDA 3104) group project.
 
-
-The range finder with alarm uses an ultrasonic sensor to detect distance.  It lights consecutive Green, Yellow and Red LEDs as an object gets closer to the sensor.  It sets of a speaker alarm at a minimum distance that can be reset by a button.
+The range finder with alarm uses an ultrasonic sensor to detect distance.  It lights consecutive Green, Yellow and Red LEDs as an object gets closer to the sensor.  It sets off a speaker alarm at a minimum distance that can be reset by a button.
 
 ## Example
 ### •	Distances less than 25in light the Green LED
@@ -15,3 +15,8 @@ The range finder with alarm uses an ultrasonic sensor to detect distance.  It li
 
 
 ![image](https://github.com/LkHepokoski/AssemblyRangeDetector/assets/93214397/71d38b91-d0d7-4177-a907-7cc5d347a764)
+
+
+## Members:
+Jose Suarez @codecrusherr
+Tayler Rae Bachmann
