@@ -18,5 +18,5 @@ The range finder with alarm uses an ultrasonic sensor to detect distance.  It li
 
 
 ## Members:
-Jose Suarez @codecrusherr
-Tayler Rae Bachmann
+### • Jose Suarez @codecrusherr
+### •	Tayler Rae Bachmann
